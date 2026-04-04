@@ -1,96 +1,96 @@
-<div align="center">
+# Jacob Ferguson
 
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=36&duration=1&pause=99999&color=FFFFFF&center=true&vCenter=true&width=600&lines=JACOB+FERGUSON" alt="Jacob Ferguson" />
-</h1>
+GRC Engineer | Security & Compliance | AWS · Microsoft · PowerShell · Python 
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=13&duration=1&pause=99999&color=00F5FF&center=true&vCenter=true&width=600&lines=Defensive+Cyber+Analyst+%7C+Blue+Team+Operator" alt="Tagline" />
+Cybersecurity professional pivoting from defensive operations into Governance, Risk, and Compliance Engineering. Seven years in the U.S. Navy, followed by hands-on SOC and IT security work across the Microsoft and AWS stack. Now building the technical foundation to engineer compliance at scale: automating control mapping, evidence collection, and security posture management in cloud environments.
 
-<br/>
+Rice University MBA candidate (Jones School of Business, 2028).
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=14&duration=4000&pause=500&color=00F5FF&center=true&vCenter=true&width=700&lines=%3E+U.S.+Navy+Vet+%7C+Help+Desk+%E2%86%92+Cybersecurity;%3E+Currently+Employed+%E2%80%94+Always+Leveling+Up;%3E+Rice+MBA+Candidate+%7C+GED+to+Grad+School;%3E+Ask+me+about%3A+Azure+%C2%B7+Sentinel+%C2%B7+Incident+Response" alt="Typing" />
-
-</div>
-
-![Profile Views](https://komarev.com/ghpvc/?username=jfergitlife&label=PROFILE+VIEWS&color=b54fff&style=flat-square)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itlife)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jfergITLIfe)
 
 ---
 
-## `// MISSION BRIEF`
+## Background
 
-Seven years in the **U.S. Navy** taught me what it means to hold the line. After transitioning out, I needed a new mission — one still built on **service, precision, and protecting others.**
-
-I started in the trenches. Ticket after ticket. Blood, sweat, and help desk queues. That foundation didn't just land me in cybersecurity — **it built me for it.**
-
-> GED → BA → **Rice MBA Candidate** — I don't wait for access. I earn it.
-
----
-
-## `// INTEL PROFILE`
-
-| Field | Data |
+| | |
 |---|---|
-| 🎯 **Role** | Defensive Cyber Analyst — SOC Operations |
-| 🪖 **Background** | U.S. Navy Veteran — 7 Years of Service |
-| 🎓 **Education** | Rice MBA Candidate · BA Completed |
-| 🔵 **Focus Stack** | Microsoft Azure · Sentinel · Defender · Entra ID |
-| 📍 **Location** | Conroe, TX |
+| **Current Focus** | GRC Engineering · Compliance Automation · Cloud Security Posture |
+| **Industry Experience** | MSSP · SOC Operations · M365 Administration |
+| **Military Service** | U.S. Navy · 7 Years |
+| **Education** | Rice University MBA (Jones, 2026) · BA Completed |
 
 ---
 
-## `// CERTIFICATIONS`
+## Frameworks & Standards
+
+NIST CSF · NIST 800-53 · CIS Controls v8 · ISO 27001 · SOC 2 · CMMC · NIST 800-171
+
+---
+
+## Technical Skills
+
+**Cloud & Security Platforms**
+AWS Security Hub · AWS Config · Microsoft Sentinel · Microsoft Defender XDR · Microsoft Purview · Entra ID
+
+**Languages & Automation**
+PowerShell  · Python 
+
+**GRC & Compliance Tooling**
+AWS Config Rules · CIS Benchmark Scanning · Security Hub Compliance Scores · Control Mapping
+---
+
+## Certifications
+
 ```
-✅ SC-900   — Microsoft Security, Compliance & Identity
-✅ AZ-900   — Microsoft Azure Fundamentals
-✅ BTL1
-✅ CompTIA Security+
-▶  CCNA    — In Progress
-⬜ CySA+   — Queued
+ACTIVE
+  CompTIA Security+
+  CompTIA Network+
+  CompTIA A+
+  AZ-900  — Microsoft Azure Fundamentals
+  MS-900  — Microsoft 365 Fundamentals
+  SC-900  — Microsoft Security, Compliance & Identity Fundamentals
+  BTL1    — Blue Team Level 1
+  ITIL    — ITIL Foundation
+
+IN PROGRESS
+  CLF-C02 — AWS Cloud Practitioner
 ```
 
 ---
 
-## `// ARSENAL`
+## Projects
 
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
-![Microsoft Sentinel](https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
-![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E84A27?style=flat-square&logo=crowdstrike&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![KQL](https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+### AWS GRC Engineering Lab
+> *In Development*
 
-**Tools:** Sysmon · DeepBlueCLI · Microsoft Defender · Entra ID · Purview · Threat Intelligence
+Building a purpose-built AWS environment focused on GRC Engineering skill development. The lab is structured around real compliance workflows, not just spinning up services.
 
----
+**Planned outputs:**
+- CIS Benchmark compliance scoring via AWS Security Hub
+- Custom AWS Config rules mapped to NIST 800-53 controls
+- Automated evidence collection for audit readiness
+- Compliance-as-code patterns using AWS-native services
+- Documentation of control implementation decisions and rationale
 
-## `// ACTIVE OPERATIONS`
-
-### 🔴 [100 Days of PowerShell](https://github.com/jfergITLIfe/100-days-of-powershell)
-Daily scripting challenges sharpening automation skills for SOC workflows. Building muscle memory for rapid incident response and system administration tasks.
-
-`PowerShell` `Automation` `SOC` `Scripting`
-
-### 🟣 [Medium — Blue Team Writeups](https://medium.com/@jfergitlife)
-Publishing on incident response, Microsoft security tooling, and the realities of breaking into cybersecurity from a non-traditional path.
-
-`Threat Intel` `Incident Response` `Career Pivot` `Microsoft Stack`
+`AWS` `Security Hub` `Config` `CIS Controls` `NIST 800-53` `Compliance Automation`
 
 ---
 
-## `// ESTABLISH CONTACT`
+## What I'm Working On
 
-<div align="center">
+- Preparing for the AWS Cloud Practitioner exam (CLF-C02)
+- Building out the AWS GRC Engineering lab with Security Hub and Config as the core
+- Studying GRC Engineering patterns: control mapping, evidence automation, policy-as-code
+- Starting the Rice MBA in July 2026
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itlife)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jfergitlife)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jfergITLIfe)
+---
 
-<br/>
+## Writing
 
-*`// Stay vigilant. Stay building.`*
+**The Praxis Project** — A weekly newsletter on Stoic philosophy and leadership.
+[thepraxisproject.beehiiv.com](https://thepraxisproject.beehiiv.com)
 
-</div>
+---
+
+*Compliance is not a checkbox. It's an engineering problem.*
