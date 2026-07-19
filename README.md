@@ -1,6 +1,6 @@
 # Jacob Ferguson
 
-GRC Engineer | Security & Compliance | AWS · Microsoft · PowerShell · Python 
+Network Engineering | Systems Administraton | Azure · PowerShell · Python · Cisco 
 
 Cybersecurity professional pivoting from defensive operations into Governance, Risk, and Compliance Engineering. Seven years in the U.S. Navy, followed by hands-on SOC and IT security work across the Microsoft and AWS stack. Now building the technical foundation to engineer compliance at scale: automating control mapping, evidence collection, and security posture management in cloud environments.
 
